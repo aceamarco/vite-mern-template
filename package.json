@@ -11,7 +11,7 @@
     "build:server": "tsc",
     "build:client": "npm run build --prefix ./client"
   },
-  "repository": "https://github.com/apicgg/vite-mern-template.git",
+  "repository": "https://github.com/aceamarco/vite-mern-template.git",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
