@@ -25,6 +25,7 @@ Any package manager can be used with this project (e.g. npm, yarn or pnpm).
 - ~[bcrypt.js](https://www.npmjs.com/package/bcryptjs)~
 - ~[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)~
 - [express-async-handler](https://www.npmjs.com/package/express-async-handler)
+- [material-ui](https://mui.com/)
 
 #### The dependency versions are managed by [depfu](https://depfu.com/).
 
