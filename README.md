@@ -15,32 +15,21 @@ Any package manager can be used with this project (e.g. npm, yarn or pnpm).
 ## Tools
 
 - [React](https://reactjs.org/)
-- ~[Tailwind CSS](https://tailwindcss.com/)~
-- [TypeScript](https://www.typescriptlang.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Axios](https://axios-http.com/)
 - [React Router DOM](https://reactrouter.com/)
 - [Express](https://expressjs.com/)
 - [mongoose](https://mongoosejs.com/)
-- ~[bcrypt.js](https://www.npmjs.com/package/bcryptjs)~
-- ~[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)~
 - [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 - [material-ui](https://mui.com/)
-
-#### The dependency versions are managed by [depfu](https://depfu.com/).
 
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/) 18+
 
-## Demo
-
-![vite-mern-template-gh-demo](https://user-images.githubusercontent.com/78271602/234833309-fe8df564-2895-4727-be1e-c807fe142333.gif)
-
 ## Installation
 
 ```bash
-npx degit apicgg/vite-mern-template my-app
+npx degit aceamarco/vite-mern-template my-app
 ```
 
 ## Install dependencies (npm or yarn or pnpm)
@@ -76,12 +65,6 @@ npm run client
 - Remove the .git folder and initialize your own git repository.
 - In this case `npm run watch` needs to be executed before starting the development server with `npm run server` on different terminal sessions as the TypeScript files (backend) need to be compiled to JavaScript before staring the dev server with node.
 - To build run `npm run build:server` and `npm run build:client`.
-
-## TODO
-
-- [x] Include eslint and prettier.
-- [ ] Add testing frameworks.
-- [ ] Create a npm CLI library for scaffolding projects.
 
 ## License
 
